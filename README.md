@@ -42,17 +42,17 @@ To run this project, you need to have Go installed on your system. You can downl
 
 1. Clone the repository to your local machine:
 
-> git clone https://github.com/your-username/simple-web-crawler.git
+> git clone https://github.com/LandWhale2/TD-Spider.git
 
 
 2. Navigate to the project directory:
 
-> cd simple-web-crawler
+> cd TD-Spider
 
 
 3. Run the crawler with a starting URL and the keyword you want to search for:
 
-> go run main.go <URL> <KEYWORD>
+> go run spider.go <URL> <KEYWORD>
 
 
 
